@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 a1_*.txt
 extract_a1.py
+CLAUDE.local.md
