@@ -6,5 +6,4 @@ extract_a1.py
 CLAUDE.local.md
 .claude/
 embeddings/ppmi_matrix.npy
-embeddings/state_part1.pkl
 submission/
